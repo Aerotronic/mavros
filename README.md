@@ -1,3 +1,9 @@
+NOTES - KEVIN
+must install these first
+sudo apt-get install ros-kinetic-mavlink
+sudo apt-get install ros-kinetic-geographic-msgs
+sudo apt-get install ros-kinetic-control-toolbox
+
 MAVROS
 ======
 
