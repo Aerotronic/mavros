@@ -4,6 +4,11 @@ sudo apt-get install ros-kinetic-mavlink
 sudo apt-get install ros-kinetic-geographic-msgs
 sudo apt-get install ros-kinetic-control-toolbox
 
+THEN
+
+sudo chmod 666 /dev/ttyUSB0
+
+
 MAVROS
 ======
 
